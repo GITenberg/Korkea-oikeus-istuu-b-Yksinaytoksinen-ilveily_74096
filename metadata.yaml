@@ -1,0 +1,32 @@
+_repo: Korkea-oikeus-istuu-b-Yksinaytoksinen-ilveily_74096
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wuori, Martti
+    alias: Wuori, M.
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+description: ''
+gutenberg_issued: '2024-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74096'
+language: fi
+pgterms:marc905: 20240719004303wuori
+pgterms:marc906: '1898'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aKuopio :$bKuopion Uusi Kirjapaino, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Finnish drama -- 19th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Korkea oikeus istuu : $b Yksinäytöksinen ilveily'
+url: http://www.gutenberg.org/ebooks/74096
